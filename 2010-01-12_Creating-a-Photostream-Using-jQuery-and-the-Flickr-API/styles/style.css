@@ -1,0 +1,9 @@
+.hidden {
+	display: none;
+}
+
+div#flickr a.lightbox img {
+	border: 5px solid #b3aaa4;
+	margin-left: 5px;
+	margin-right: 5px;
+}
